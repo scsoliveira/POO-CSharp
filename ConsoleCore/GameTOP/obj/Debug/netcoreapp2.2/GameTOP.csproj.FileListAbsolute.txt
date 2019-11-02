@@ -1,0 +1,11 @@
+/home/samuel/Documentos/Curso .NET/1-AULA/GameTOP/bin/Debug/netcoreapp2.2/GameTOP.deps.json
+/home/samuel/Documentos/Curso .NET/1-AULA/GameTOP/bin/Debug/netcoreapp2.2/GameTOP.runtimeconfig.json
+/home/samuel/Documentos/Curso .NET/1-AULA/GameTOP/bin/Debug/netcoreapp2.2/GameTOP.runtimeconfig.dev.json
+/home/samuel/Documentos/Curso .NET/1-AULA/GameTOP/bin/Debug/netcoreapp2.2/GameTOP.dll
+/home/samuel/Documentos/Curso .NET/1-AULA/GameTOP/bin/Debug/netcoreapp2.2/GameTOP.pdb
+/home/samuel/Documentos/Curso .NET/1-AULA/GameTOP/obj/Debug/netcoreapp2.2/GameTOP.csprojAssemblyReference.cache
+/home/samuel/Documentos/Curso .NET/1-AULA/GameTOP/obj/Debug/netcoreapp2.2/GameTOP.csproj.CoreCompileInputs.cache
+/home/samuel/Documentos/Curso .NET/1-AULA/GameTOP/obj/Debug/netcoreapp2.2/GameTOP.AssemblyInfoInputs.cache
+/home/samuel/Documentos/Curso .NET/1-AULA/GameTOP/obj/Debug/netcoreapp2.2/GameTOP.AssemblyInfo.cs
+/home/samuel/Documentos/Curso .NET/1-AULA/GameTOP/obj/Debug/netcoreapp2.2/GameTOP.dll
+/home/samuel/Documentos/Curso .NET/1-AULA/GameTOP/obj/Debug/netcoreapp2.2/GameTOP.pdb
