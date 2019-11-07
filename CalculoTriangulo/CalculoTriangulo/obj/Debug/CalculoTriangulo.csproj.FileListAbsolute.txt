@@ -1,0 +1,7 @@
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\CalculoTriangulo\CalculoTriangulo\bin\Debug\CalculoTriangulo.exe.config
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\CalculoTriangulo\CalculoTriangulo\bin\Debug\CalculoTriangulo.exe
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\CalculoTriangulo\CalculoTriangulo\bin\Debug\CalculoTriangulo.pdb
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\CalculoTriangulo\CalculoTriangulo\obj\Debug\CalculoTriangulo.csprojAssemblyReference.cache
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\CalculoTriangulo\CalculoTriangulo\obj\Debug\CalculoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\CalculoTriangulo\CalculoTriangulo\obj\Debug\CalculoTriangulo.exe
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\CalculoTriangulo\CalculoTriangulo\obj\Debug\CalculoTriangulo.pdb
