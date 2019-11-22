@@ -1,0 +1,7 @@
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojAssemblyReference.cache
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
