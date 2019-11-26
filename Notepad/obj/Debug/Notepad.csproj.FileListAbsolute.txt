@@ -1,0 +1,9 @@
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\5_2_Sistemas Completos\_NotePad_C#\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\5_2_Sistemas Completos\_NotePad_C#\Notepad\bin\Debug\Notepad.exe
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\5_2_Sistemas Completos\_NotePad_C#\Notepad\bin\Debug\Notepad.pdb
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\5_2_Sistemas Completos\_NotePad_C#\Notepad\obj\Debug\Notepad.Form1.resources
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\5_2_Sistemas Completos\_NotePad_C#\Notepad\obj\Debug\Notepad.Form2.resources
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\5_2_Sistemas Completos\_NotePad_C#\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\5_2_Sistemas Completos\_NotePad_C#\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\5_2_Sistemas Completos\_NotePad_C#\Notepad\obj\Debug\Notepad.exe
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\5_2_Sistemas Completos\_NotePad_C#\Notepad\obj\Debug\Notepad.pdb
