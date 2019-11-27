@@ -1,0 +1,7 @@
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\DesafioMatrix\DesafioMatrix\bin\Debug\DesafioMatrix.exe.config
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\DesafioMatrix\DesafioMatrix\bin\Debug\DesafioMatrix.exe
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\DesafioMatrix\DesafioMatrix\bin\Debug\DesafioMatrix.pdb
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\DesafioMatrix\DesafioMatrix\obj\Debug\DesafioMatrix.csprojAssemblyReference.cache
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\DesafioMatrix\DesafioMatrix\obj\Debug\DesafioMatrix.csproj.CoreCompileInputs.cache
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\DesafioMatrix\DesafioMatrix\obj\Debug\DesafioMatrix.exe
+C:\Users\PC 05\Desktop\SAMUEL\Maratona\DesafioMatrix\DesafioMatrix\obj\Debug\DesafioMatrix.pdb
