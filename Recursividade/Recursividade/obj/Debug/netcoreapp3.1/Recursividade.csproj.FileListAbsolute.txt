@@ -1,0 +1,11 @@
+C:\Users\PC 05\source\repos\Recursividade\Recursividade\bin\Debug\netcoreapp3.1\Recursividade.exe
+C:\Users\PC 05\source\repos\Recursividade\Recursividade\bin\Debug\netcoreapp3.1\Recursividade.deps.json
+C:\Users\PC 05\source\repos\Recursividade\Recursividade\bin\Debug\netcoreapp3.1\Recursividade.runtimeconfig.json
+C:\Users\PC 05\source\repos\Recursividade\Recursividade\bin\Debug\netcoreapp3.1\Recursividade.runtimeconfig.dev.json
+C:\Users\PC 05\source\repos\Recursividade\Recursividade\bin\Debug\netcoreapp3.1\Recursividade.dll
+C:\Users\PC 05\source\repos\Recursividade\Recursividade\bin\Debug\netcoreapp3.1\Recursividade.pdb
+C:\Users\PC 05\source\repos\Recursividade\Recursividade\obj\Debug\netcoreapp3.1\Recursividade.csprojAssemblyReference.cache
+C:\Users\PC 05\source\repos\Recursividade\Recursividade\obj\Debug\netcoreapp3.1\Recursividade.AssemblyInfoInputs.cache
+C:\Users\PC 05\source\repos\Recursividade\Recursividade\obj\Debug\netcoreapp3.1\Recursividade.AssemblyInfo.cs
+C:\Users\PC 05\source\repos\Recursividade\Recursividade\obj\Debug\netcoreapp3.1\Recursividade.dll
+C:\Users\PC 05\source\repos\Recursividade\Recursividade\obj\Debug\netcoreapp3.1\Recursividade.pdb
